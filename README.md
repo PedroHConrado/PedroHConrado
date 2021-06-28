@@ -3,7 +3,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🎓 <samp>Currently pursuing in Computer Science(2019-2023) from PUC-Rio
+- 🎓 <samp>Currently pursuing in Computer Science (2019-2022) from PUC-Rio
 -  💡 &nbsp;I like to explore new technologies and develop web applications with **React**.
 - 💼 <samp>I’m looking for **Front-End Developer** Opportunities.
 - 💬 <samp>Ask me about **HTML/CSS/JavaScript/TypeScript/ReactJS**.
