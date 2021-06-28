@@ -7,8 +7,6 @@
 -  💡 &nbsp;I like to explore new technologies and develop web applications with **React**.
 - 💼 <samp>I’m looking for **Front-End Developer** Opportunities.
 - 💬 <samp>Ask me about **HTML/CSS/JavaScript/TypeScript/ReactJS**.
-- 🤔 <samp>I’m looking for help with how to excel in Competitive Programming.
-- ⚡ <samp>Fun fact: I am kinda boring and sometimes dumb though, but I am a determined guy.
 
 ### 🛠 &nbsp;Tech Stack
 
