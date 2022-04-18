@@ -23,9 +23,6 @@
 - 💡 <samp>I like to explore new technologies and develop web applications with **Angular** and **React**.
 - 💬 <samp>Ask me about **HTML/CSS/JavaScript/TypeScript/Angular/ReactJS**.
   
- <br>
-
-
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
