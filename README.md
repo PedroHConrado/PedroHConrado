@@ -22,8 +22,8 @@
 -  💡 &nbsp;I like to explore new technologies and develop web applications with **Angular** and **React**.
 - 💬 <samp>Ask me about **HTML/CSS/JavaScript/TypeScript/Angular/ReactJS**.
   
-  <br>
-  <br>
+ <br>
+
 
 ### 🛠 &nbsp;Tech Stack
 
