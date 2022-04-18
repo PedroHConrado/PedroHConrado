@@ -21,7 +21,7 @@
 - 🚀 <samp>I’m currently working at Picpay
 - 🎓 <samp>Currently pursuing in Computer Science (2019-2023) from PUC-Rio
 - 💡 <samp>I like to explore new technologies and develop web applications with **Angular** and **React**.
-- 💬 <samp>Ask me about **HTML/CSS/JavaScript/TypeScript/Angular/ReactJS**.
+- 💬 <samp>Ask me about **HTML, CSS, JavaScript, TypeScript, Angular and ReactJS**.
   
 ### 🛠 &nbsp;Tech Stack
 
