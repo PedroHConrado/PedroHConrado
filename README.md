@@ -3,7 +3,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<a href="https://www.linkedin.com/in/pedro-henrique-conrado-6929a01bb/">
+<a href="https://www.linkedin.com/in/pedro-conrado-6929a01bb/">
   <img align="left" alt="akd's Linkdein" width="100px" height="30px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/PedroHConrado">
